@@ -1,16 +1,8 @@
-# doctor_consultation_app
+# Doctor Consultation App
 
-A new Flutter project.
+A Doctor Consultation App UI Design using Flutter. There are 3 screens: the first screen is onboarding screen, which is the first page that is displayed when the application is run. The second screen is home screen, which contains a search bar, category and top doctors. And then the third screen is detail screen, which displays details about the selected doctor
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot1](screenshots/doctor_consultation_onboarding.png)
+![](screenshots/doctor_consultation_home.png)
