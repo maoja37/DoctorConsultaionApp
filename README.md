@@ -6,3 +6,8 @@ A Doctor Consultation App UI Design using Flutter. There are 3 screens: the firs
 
 ![Screenshot1](screenshots/doctor_consultation_onboarding.png)
 ![](screenshots/doctor_consultation_home.png)
+![](screenshots/doctor_consultation_detailScreen1.png)
+![](screenshots/doctor_consultation_detailScreen2.png)
+![](screenshots/doctor_consultation_detailScreen3.png)
+![](screenshots/doctor_consultation_detailScreen4.png)
+

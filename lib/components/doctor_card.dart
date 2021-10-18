@@ -13,7 +13,7 @@ class DoctorCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-      onTap: () {Navigator.push(context, MaterialPageRoute(builder: (context)=> DetailScreen()));},
+      onTap: () {Navigator.push(context, MaterialPageRoute(builder: (context)=> DetailScreen(leading,title,subtitle)));},
       child: DecoratedBox(
         decoration: BoxDecoration(
           color: bColor.withOpacity(0.1),
